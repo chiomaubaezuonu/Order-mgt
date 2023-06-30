@@ -1,5 +1,29 @@
 .App {
-  text-align: center;
+  padding: 4rem 8rem;
+}
+.flex {
+  display: flex;
+}
+.flex.column {
+  flex-direction: column;
+}
+.margin-bottom {
+  margin-bottom: 2rem;
+}
+.margin-bottom.mini {
+  margin-bottom: 0.4rem;
+}
+.smaller {
+  font-size: smaller;
+}
+
+
+
+.antd-select {
+  width: 10rem;
+}
+.margin-left{
+  margin-left: 4rem;
 }
 
 .App-logo {
